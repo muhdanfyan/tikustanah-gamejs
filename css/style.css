@@ -1,7 +1,12 @@
-h1{
+h1, h2{
     font-size: 60px;
     text-align: center;
     font-family: arial;
+}
+
+button{
+    display: block;
+    margin: auto;
 }
 
 .container{
